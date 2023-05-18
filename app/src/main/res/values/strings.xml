@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Retrofit 2</string>
+    <string name="new_joke">I want another joke!</string>
+    <string name="first_call_error">If you see this, something went wrong while generating the joke, check your internet connection</string>
+</resources>
