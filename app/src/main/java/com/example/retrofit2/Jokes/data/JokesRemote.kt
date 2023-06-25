@@ -1,6 +1,6 @@
-package com.example.retrofit2
+package com.example.retrofit2.Jokes.data
 
-data class Jokes (
+data class JokesRemote (
     val joke: String?,
     val type: String?,
     val setup: String?,
